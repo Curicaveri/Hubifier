@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Hubifier</string>
+
+    <string name="btnSettings">Settings</string>
+
+    <string name="lblPrincipalTitle">Welcome to Hubifier!</string>
+    <string name="lblPrincipalSubTitle">The app for organize your project portfolio!</string>
+
+    <string name="btnSpotifyStreamer">Spotify Streamer</string>
+    <string name="btnScoresApp">Scores App</string>
+    <string name="btnLibraryApp">Library App</string>
+    <string name="btnBuiltItBigger">Built It Bigger</string>
+    <string name="btnXYZReader">XYZ Reader</string>
+    <string name="btnCapstone">CAPSTONE: YAGA</string>
+
+    <string name="strToastMessage1">This button will launch the</string>
+    <string name="strToastMessage2">App</string>
+    <string name="strSettingsMessage">You need to be a monster, since this option is not allowed to see for human beings.</string>
+
+</resources>
